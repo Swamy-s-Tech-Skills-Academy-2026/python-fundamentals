@@ -25,11 +25,8 @@ This directory contains modular rule files for Cursor AI, customized for the Pyt
 ### `05_primary-directives.mdc`
 **Content**: Primary directives, automation-first approach, update verification protocol, file naming validation
 
-### `06_cross-domain-integration.mdc`
+### `06_cross-level-integration.mdc`
 **Content**: Cross-level integration requirements, session connection patterns, prerequisite relationships
-
-### `rules.md`
-**Content**: Comprehensive rules file (legacy format, kept for reference)
 
 ---
 

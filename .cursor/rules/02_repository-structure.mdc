@@ -60,9 +60,8 @@ python-fundamentals/
 │       ├── 03_quality-assurance.mdc
 │       ├── 04_markdown-standards.mdc
 │       ├── 05_primary-directives.mdc
-│       ├── 06_cross-domain-integration.mdc
-│       ├── README.md
-│       └── rules.md
+│       ├── 06_cross-level-integration.mdc
+│       └── README.md
 ├── .github/                               # GitHub configuration
 │   ├── copilot-instructions.md            # GitHub Copilot instructions
 │   └── workflows/
