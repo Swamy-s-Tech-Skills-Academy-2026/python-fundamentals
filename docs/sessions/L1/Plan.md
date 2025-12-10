@@ -1,3 +1,82 @@
+---
+learning_level: "Noob → Nerd"
+level_number: 1
+prerequisites: []
+total_duration: "~6–7 hours"
+format: "2 phases × (4 sessions + 1 mini project) = 10 sessions total"
+outcome: "2 Mini Projects to cement your foundation"
+transformation_focus: "Evolving mindset from complete beginner to someone genuinely curious about programming"
+learning_objectives:
+  - "Set up Python environment confidently"
+  - "Write & run first Python scripts"
+  - "Use built-in functions effectively"
+  - "Work with variables, operators, and conditionals"
+  - "Control program flow with loops"
+  - "Debug errors using messages and print statements"
+  - "Store/manipulate data using lists & dictionaries"
+  - "Apply basic testing with asserts"
+  - "Complete 2 mini projects showing your skills"
+  - "Be ready for Level 2: Nerd → Novice"
+related_topics:
+  prerequisites: []
+  builds_upon: []
+  enables:
+    - "docs/sessions/L2/Plan.md"
+  cross_refs: []
+sessions:
+  - session: 1
+    topic: "Python Introduction, Environment & Built-in Functions"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Ready"
+    file: "docs/sessions/L1/S1.md"
+  - session: 2
+    topic: "Variables & Data Types"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "In Progress"
+  - session: 3
+    topic: "Operators & Expressions"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: 4
+    topic: "Conditionals, Indentation & Introduction to Modules"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: "MP1"
+    topic: "Mini Project 1: Simple Calculator"
+    duration: "30–45 min"
+    type: "Project"
+    status: "Coming Soon"
+  - session: 5
+    topic: "Loops & Iteration"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: 6
+    topic: "Basic Debugging, Reading Errors & Built-in Functions"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: 7
+    topic: "Lists & Loops"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: 8
+    topic: "Dictionaries & Basic Testing"
+    duration: "30 min"
+    type: "Knowledge"
+    status: "Coming Soon"
+  - session: "MP2"
+    topic: "Mini Project 2: Personal Profile Generator"
+    duration: "30–45 min"
+    type: "Project"
+    status: "Coming Soon"
+---
+
 # 🐍 Level 1: Noob → Nerd - Python Fundamentals
 
 ## From clueless to curious: Your first exposure to Python programming
