@@ -8,34 +8,15 @@ A comprehensive, transformation-focused Python curriculum designed to take you f
 
 ## 📋 **Repository Structure**
 
-```text
-python-fundamentals/
-├── 📚 docs/
-│   ├── images/                 # Screenshots and educational images
-│   │   └── S1/                # Session 1 images (help screenshots, bytecode diagram)
-│   └── sessions/
-│       └── L1/                # Level 1: Noob → Nerd
-│           ├── Plan.md        # Complete Level 1 curriculum plan
-│           └── S1.md          # Session 1: Python Introduction & Environment Setup
-│           # S2.md and beyond - coming soon
-├── 💻 src/
-│   └── L1/
-│       └── S1/                # Session 1 practice files
-│           ├── 01_hello.py
-│           ├── 02_interactive_hello.py
-│           └── bytecode_demo.py
-├── 🔧 scripts/               # Development and utility scripts
-│   ├── docs-lint.ps1         # Markdown linting script
-│   ├── docs-links.ps1        # Link validation script
-│   └── show-tree.ps1         # Repository structure generator
-├── ⚙️ .github/
-│   ├── workflows/
-│   │   └── docs-quality.yml  # CI/CD for documentation quality
-│   └── copilot-instructions.md
-├── 📄 README.md              # This file
-├── 📄 LICENSE                # MIT License
-└── 📋 Configuration files    # .markdownlint*, lychee.toml, .gitignore
-```
+For a detailed repository structure, see **[Repository Structure](docs/RepositoryStructure.md)**.
+
+**Quick Overview:**
+
+- **📚 docs/**: Educational documentation (sessions, images)
+- **💻 src/**: Practice code files organized by level and session
+- **🔧 scripts/**: PowerShell utility scripts for development
+- **⚙️ .github/**: CI/CD workflows and copilot instructions
+- **📋 Configuration**: Markdown linting, link checking, and other config files
 
 ---
 
@@ -61,11 +42,11 @@ python-fundamentals/
 
 - **📚 Level 1 Documentation:** Complete curriculum plan and structure
 - **📖 Session 1:** Full content with practice files - [**View Session 1**](docs/sessions/L1/S1.md)
+- **📖 Session 2:** Variables & Data Types - [**View Session 2**](docs/sessions/L1/S2.md)
 - **🔧 Development Infrastructure:** Documentation quality automation with CI/CD pipeline
 
 ### **🚧 In Development:**
 
-- **📖 Session 2:** Variables & Data Types _(in progress)_
 - **📖 Sessions 3-10:** Coming soon
 
 ### **📊 Repository Health:**
