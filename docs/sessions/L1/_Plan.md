@@ -29,53 +29,61 @@ sessions:
     duration: "30 min"
     type: "Knowledge"
     status: "Ready"
-    file: "docs/sessions/L1/S1.md"
+    file: "docs/sessions/L1/01_S1.md"
   - session: 2
     topic: "Variables & Data Types"
     duration: "30 min"
     type: "Knowledge"
     status: "Ready"
-    file: "docs/sessions/L1/S2.md"
+    file: "docs/sessions/L1/02_S2.md"
   - session: 3
     topic: "Operators & Expressions"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/03_S3.md"
   - session: 4
     topic: "Conditionals, Indentation & Introduction to Modules"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/04_S4.md"
   - session: "MP1"
     topic: "Mini Project 1: Simple Calculator"
     duration: "30–45 min"
     type: "Project"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/05_MP1.md"
   - session: 5
     topic: "Loops & Iteration"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/06_S5.md"
   - session: 6
     topic: "Basic Debugging, Reading Errors & Built-in Functions"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/07_S6.md"
   - session: 7
     topic: "Lists & Loops"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/08_S7.md"
   - session: 8
     topic: "Dictionaries & Basic Testing"
     duration: "30 min"
     type: "Knowledge"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/09_S8.md"
   - session: "MP2"
     topic: "Mini Project 2: Personal Profile Generator"
     duration: "30–45 min"
     type: "Project"
-    status: "Coming Soon"
+    status: "Ready"
+    file: "docs/sessions/L1/10_MP2.md"
 ---
 
 # 🐍 Level 1: Noob → Nerd - Python Fundamentals
@@ -99,14 +107,14 @@ sessions:
 | ----- | ------- | ----------------------------------------------------- | --------- | ------------ | -------------- |
 | A     | 1       | Python Introduction, Environment & Built-in Functions | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
 | A     | 2       | Variables & Data Types                                | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
-| A     | 3       | Operators & Expressions                               | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| A     | 4       | Conditionals, Indentation & Introduction to Modules   | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| A     | 🚀 MP1  | Mini Project 1: Simple Calculator *(after Session 4)* | 30–45 min | 🛠️ Project  | 🔄 Coming Soon |
-| B     | 5       | Loops & Iteration                                     | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| B     | 6       | Basic Debugging, Reading Errors & Built-in Functions  | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| B     | 7       | Lists & Loops                                         | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| B     | 8       | Dictionaries & Basic Testing                          | 30 min    | 📚 Knowledge | 🔄 Coming Soon |
-| B     | 🚀 MP2  | Mini Project 2: Personal Profile Generator *(after 8)*| 30–45 min | 🛠️ Project  | 🔄 Coming Soon |
+| A     | 3       | Operators & Expressions                               | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| A     | 4       | Conditionals, Indentation & Introduction to Modules   | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| A     | 🚀 MP1  | Mini Project 1: Simple Calculator *(after Session 4)* | 30–45 min | 🛠️ Project  | ✅ Ready 📂     |
+| B     | 5       | Loops & Iteration                                     | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| B     | 6       | Basic Debugging, Reading Errors & Built-in Functions  | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| B     | 7       | Lists & Loops                                         | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| B     | 8       | Dictionaries & Basic Testing                          | 30 min    | 📚 Knowledge | ✅ Ready 📂     |
+| B     | 🚀 MP2  | Mini Project 2: Personal Profile Generator *(after 8)*| 30–45 min | 🛠️ Project  | ✅ Ready 📂     |
 
 ---
 
