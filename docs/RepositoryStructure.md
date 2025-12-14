@@ -93,9 +93,9 @@ Cursor AI configuration:
 
 ### Session Documentation
 
-- Format: `{number}_S{session}.md` or `{number}_MP{number}.md`
+- Format: `{number}_S{session}.md` or `{number}_MP{number}.md` (for future sessions)
 - Plan: `_Plan.md` (underscore prefix sorts first)
-- Examples: `01_S1.md`, `05_MP1.md`, `_Plan.md`
+- Examples: `01_S1.md`, `_Plan.md` (currently available)
 - Location: `docs/sessions/L{level}/`
 
 ### Images
@@ -112,7 +112,8 @@ Cursor AI configuration:
 
 ```markdown
 `src/L1/S1/01_hello.py`
-`src/L1/MP1/simple_calculator.py`
+`src/L1/S1/02_interactive_hello.py`
+`src/L1/S1/bytecode_demo.py`
 ```
 
 ### Session Documentation References
@@ -120,7 +121,6 @@ Cursor AI configuration:
 ```markdown
 [Session 1](docs/sessions/L1/01_S1.md)
 [Level 1 Plan](docs/sessions/L1/_Plan.md)
-[Mini Project 1](docs/sessions/L1/05_MP1.md)
 ```
 
 ### Image References
@@ -158,8 +158,6 @@ Cursor AI configuration:
 - **Main README**: [README.md](../README.md)
 - **Level 1 Plan**: [docs/sessions/L1/_Plan.md](sessions/L1/_Plan.md)
 - **Session 1**: [docs/sessions/L1/01_S1.md](sessions/L1/01_S1.md)
-- **Mini Project 1**: [docs/sessions/L1/05_MP1.md](sessions/L1/05_MP1.md)
-- **Mini Project 2**: [docs/sessions/L1/10_MP2.md](sessions/L1/10_MP2.md)
 
 ---
 
