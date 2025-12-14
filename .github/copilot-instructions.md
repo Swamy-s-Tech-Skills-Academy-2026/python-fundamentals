@@ -32,28 +32,44 @@
 ## 📋 **PROJECT STRUCTURE OVERVIEW**
 
 ### **Current Organization:**
-```
+
+```text
 python-fundamentals/
 ├── docs/
 │   ├── images/              # Educational images and screenshots
 │   │   └── S1/              # Session 1 images
+│   ├── RepositoryStructure.md
 │   └── sessions/
 │       └── L1/              # Level 1: Noob → Nerd
-│           ├── Plan.md      # Overall Level 1 curriculum plan
-│           └── S1.md        # Session 1: Environment & Setup
-│           # S2.md and beyond - coming soon
+│           ├── _Plan.md     # Overall Level 1 curriculum plan (sorts first)
+│           ├── 01_S1.md     # Session 1: Environment & Setup
+│           ├── 02_S2.md     # Session 2: Variables & Data Types
+│           ├── 03_S3.md     # Session 3: Operators & Expressions
+│           ├── 04_S4.md     # Session 4: Conditionals & Modules
+│           ├── 05_MP1.md    # Mini Project 1: Simple Calculator
+│           ├── 06_S5.md     # Session 5: Loops & Iteration
+│           ├── 07_S6.md     # Session 6: Debugging & Built-ins
+│           ├── 08_S7.md     # Session 7: Lists & Loops
+│           ├── 09_S8.md     # Session 8: Dictionaries & Testing
+│           └── 10_MP2.md    # Mini Project 2: Profile Generator
 ├── src/
 │   └── L1/
-│       └── S1/              # Session 1 practice files
-│           ├── 01_hello.py
-│           ├── 02_interactive_hello.py
-│           └── bytecode_demo.py
+│       ├── S1/              # Session 1 practice files
+│       │   ├── 01_hello.py
+│       │   ├── 02_interactive_hello.py
+│       │   └── bytecode_demo.py
+│       ├── S2/ ... S8/      # Session 2-8 practice files
+│       ├── MP1/             # Mini Project 1 files
+│       │   └── simple_calculator.py
+│       └── MP2/             # Mini Project 2 files
+│           └── profile_generator.py
 └── README.md                # Project overview and quick start
 ```
 
 ### **File Relationships:**
-- `docs/sessions/L1/S1.md` ↔ `src/L1/S1/` (practice files)
-- `docs/sessions/L1/Plan.md` → Overall curriculum structure
+
+- `docs/sessions/L1/01_S1.md` ↔ `src/L1/S1/` (practice files)
+- `docs/sessions/L1/_Plan.md` → Overall curriculum structure
 - `README.md` → Entry point with navigation links
 
 ---
@@ -72,6 +88,38 @@ python-fundamentals/
 - **Technically accurate** - All code examples work correctly
 - **Professionally presented** - Industry-standard documentation
 - **Accessible** - Clear language and multiple learning styles
+
+---
+
+## 🧠 **CoT/ReAct METHODOLOGY**
+
+### **For Content CREATION (THINK → REASON → ACT → VERIFY):**
+
+| Phase | Steps |
+|-------|-------|
+| **THINK** | Understand objective → Decompose into chunks → Sequence logically → Anticipate misconceptions |
+| **REASON** | Check prerequisites → Map connections → Design examples → Identify pitfalls |
+| **ACT** | Write content → Create code examples → Add diagrams → Design exercises |
+| **VERIFY** | Is it clear? → Complete? → Progressive? → Original? |
+
+### **For Content REVIEW (OBSERVE → ANALYZE → REASON → VERIFY → ACT):**
+
+| Phase | Steps |
+|-------|-------|
+| **OBSERVE** | Scan and catalog ALL files in scope |
+| **ANALYZE** | Open and examine EVERY file individually |
+| **REASON** | Apply logical reasoning to identify issues |
+| **VERIFY** | Cross-check findings and validate compliance |
+| **ACT** | Document findings and update content |
+
+### **Decision Framework:**
+
+```text
+CREATION: THINK → REASON → ACT → VERIFY → (iterate if needed)
+REVIEW:   OBSERVE → ANALYZE → REASON → VERIFY → ACT
+```
+
+**See `.cursor/rules/01_educational-content-rules.mdc` for full CoT/ReAct details.**
 
 ---
 
@@ -207,7 +255,7 @@ Before submitting any changes, verify:
   - See `.cursor/rules/README.md` for overview of all rule files
   - Rules cover: educational content, repository structure, quality assurance, markdown standards, primary directives, cross-level integration
 - **Main README**: `README.md` - Project overview and quick start guide
-- **Level 1 Plan**: `docs/sessions/L1/Plan.md` - Complete Level 1 curriculum plan
+- **Level 1 Plan**: `docs/sessions/L1/_Plan.md` - Complete Level 1 curriculum plan
 
 **Note**: `.cursor/rules/` and `.github/copilot-instructions.md` should be kept in sync. Both provide guidance for AI assistants working with this repository.
 
