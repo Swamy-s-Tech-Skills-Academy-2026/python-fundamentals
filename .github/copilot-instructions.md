@@ -31,6 +31,8 @@
 
 ## 📋 **PROJECT STRUCTURE OVERVIEW**
 
+> **📋 Single Source of Truth**: For the most detailed and up-to-date repository structure, see [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md). This section provides a quick overview for AI assistants.
+
 ### **Current Organization:**
 
 ```text
@@ -251,13 +253,17 @@ Before submitting any changes, verify:
 
 ## 🔗 **Related Documentation**
 
+- **📋 Repository Structure (Single Source of Truth)**: [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md) - **Authoritative repository structure documentation**
 - **Cursor AI Rules**: `.cursor/rules/` - Comprehensive modular rules for Cursor AI
   - See `.cursor/rules/README.md` for overview of all rule files
   - Rules cover: educational content, repository structure, quality assurance, markdown standards, primary directives, cross-level integration
 - **Main README**: `README.md` - Project overview and quick start guide
 - **Level 1 Plan**: `docs/sessions/L1/_Plan.md` - Complete Level 1 curriculum plan
 
-**Note**: `.cursor/rules/` and `.github/copilot-instructions.md` should be kept in sync. Both provide guidance for AI assistants working with this repository.
+**Note**: 
+- `docs/RepositoryStructure.md` is the **single source of truth** for repository structure
+- `.cursor/rules/` and `.github/copilot-instructions.md` should reference `docs/RepositoryStructure.md` for structure details
+- Both provide guidance for AI assistants working with this repository
 
 ---
 
