@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Educational Content Questions
+    url: https://github.com/YOUR_USERNAME/python-fundamentals/discussions
+    about: Ask questions about educational content, learning paths, or curriculum structure
+  - name: 💬 General Discussion
+    url: https://github.com/YOUR_USERNAME/python-fundamentals/discussions
+    about: General questions and community discussions
+
