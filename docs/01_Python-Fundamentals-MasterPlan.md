@@ -44,22 +44,22 @@ Status Legend:
 
 **Focus:** Environment setup, basic syntax, curiosity ignition  
 **Duration:** 5 hours (10 sessions × 30 min)  
-**Status:** ✅ **Complete** - Ready for students
+**Status:** 🚧 **In Progress** - Sessions 1-2 available
 
 **Actual Session Breakdown:**
 
-| Phase | Session | Topic                                                      | Type         | Status         |
-| ----- | ------- | ---------------------------------------------------------- | ------------ | -------------- |
-| A     | 1       | **Python Introduction & Environment Setup**                 | 📚 Knowledge | ✅ **Ready**   |
-| A     | 2       | **Variables & Data Types**                                 | 📚 Knowledge | ✅ **Ready**   |
-| A     | 3       | **Operators & Expressions**                                | 📚 Knowledge | ✅ **Ready**   |
-| A     | 4       | **Conditionals, Indentation & Introduction to Modules**    | 📚 Knowledge | ✅ **Ready**   |
-| A     | MP1     | **🚀 Mini Project 1: Simple Calculator**                   | 🛠️ Project   | ✅ **Ready**   |
-| B     | 5       | **Loops & Iteration**                                      | 📚 Knowledge | ✅ **Ready**   |
-| B     | 6       | **Basic Debugging & Built-in Functions**                  | 📚 Knowledge | ✅ **Ready**   |
-| B     | 7       | **Lists & Loops**                                          | 📚 Knowledge | ✅ **Ready**   |
-| B     | 8       | **Dictionaries & Testing**                                 | 📚 Knowledge | ✅ **Ready**   |
-| B     | MP2     | **🚀 Mini Project 2: Personal Profile Generator**           | 🛠️ Project   | ✅ **Ready**   |
+| Phase | Session | Topic | Type | Status |
+| --- | --- | --- | --- | --- |
+| A | 1 | **Python Introduction & Environment Setup** | 📚 Knowledge | ✅ **Ready** |
+| A | 2 | **Variables & Data Types** | 📚 Knowledge | ✅ **Ready** |
+| A | 3 | **Operators & Expressions** | 📚 Knowledge | 🔄 **Planned** |
+| A | 4 | **Conditionals, Indentation & Introduction to Modules** | 📚 Knowledge | 🔄 **Planned** |
+| A | MP1 | **🚀 Mini Project 1: Simple Calculator** | 🛠️ Project | 🔄 **Planned** |
+| B | 5 | **Loops & Iteration** | 📚 Knowledge | 🔄 **Planned** |
+| B | 6 | **Basic Debugging & Built-in Functions** | 📚 Knowledge | 🔄 **Planned** |
+| B | 7 | **Lists & Loops** | 📚 Knowledge | 🔄 **Planned** |
+| B | 8 | **Dictionaries & Testing** | 📚 Knowledge | 🔄 **Planned** |
+| B | MP2 | **🚀 Mini Project 2: Personal Profile Generator** | 🛠️ Project | 🔄 **Planned** |
 
 **Key Learning Focus:**
 
@@ -105,25 +105,9 @@ Before moving to Level 2, you should be able to:
 
 ---
 
-## 🎯 **The 9-Level Python Journey**
-
-| Level | Journey Stage | Focus | Status |
-| --- | --- | --- | --- |
-| 1 | Noob → Nerd | _Environment setup, Python introduction, first scripts_. 📋 **[View Plan](sessions/L1/_Plan.md)** | 🚧 **In Progress** |
-| 2 | Nerd → Novice | _Curriculum under development_ | ⏭️ Coming Next |
-| 3 | Novice → Learner | _Curriculum under development_ | 🔄 Future |
-| 4 | Learner → Beginner | _Curriculum under development_ | 🔄 Future |
-| 5 | Beginner → Practitioner | _Curriculum under development_ | 🔄 Future |
-| 6 | Practitioner → Skilled Coder | _Curriculum under development_ | 🔄 Future |
-| 7 | Skilled Coder → Specialist | _Curriculum under development_ | 🔄 Future |
-| 8 | Specialist → Professional | _Curriculum under development_ | 🔄 Future |
-| 9 | Professional → Curious Learner | _Curriculum under development_ | 🔄 Future |
-
----
-
 ## 🚧 **Current Implementation Status**
 
-- **✅ Level 1:** In Progress (Sessions 1-2 available) - See [Level 1 Plan](sessions/L1/_Plan.md) for details
+- **🚧 Level 1:** In Progress - Sessions 1-2 available. See [Level 1 Plan](sessions/L1/_Plan.md) for details
 - **⏭️ Level 2-9:** Coming soon
 
 ---
@@ -154,8 +138,6 @@ Before moving to Level 2, you should be able to:
 - 🎥 **Python Installation Video:** Search "Python installation [your OS]"
 - 💬 **Community:** r/learnpython, Python Discord, Stack Overflow
 - 🎥 **Video Playlist – Level 1 (Noob → Nerd)**: [Python Fundamentals – Level 1 (YouTube playlist)](https://www.youtube.com/watch?v=Cy6DqbRjsF0&list=PLdLQDTLMjAzpRBxP4q1XJOuLhFG4pSfBB)
-
----
 
 ---
 
