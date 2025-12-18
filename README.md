@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)
-![Educational](https://img.shields.io/badge/Educational-Course-FF6B6B)
+![Python](https://img.shields.io/badge/Python-3.13+-44CC11?logo=python&logoColor=white)
+![Educational](https://img.shields.io/badge/Educational-Course-3B82F6)
 ![Meetup](https://img.shields.io/badge/Meetup-Series-ED1C40?logo=meetup&logoColor=white)
 
 A comprehensive, transformation-focused Python curriculum designed to take you from complete beginner to confident Python programmer through 9 progressive levels.
@@ -28,33 +28,40 @@ For a detailed repository structure, see **[Repository Structure](docs/Repositor
 
 ## 🎯 **The 9-Level Python Journey**
 
-| Level | Journey Stage                  | Focus                                                                                                                                                                              | Status             |
-| ----- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Level | Journey Stage                  | Focus                                                                                                  | Status             |
+| ----- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------ |
 | 1     | Noob → Nerd                    | _Environment setup, Python introduction, first scripts_. 📋 **[View Plan](docs/sessions/L1/_Plan.md)** | 🚧 **In Progress** |
-| 2     | Nerd → Novice                  | _Curriculum under development_                                                                                                                                                     | ⏭️ Coming Next     |
-| 3     | Novice → Learner               | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 4     | Learner → Beginner             | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 5     | Beginner → Practitioner        | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 6     | Practitioner → Skilled Coder   | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 7     | Skilled Coder → Specialist     | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 8     | Specialist → Professional      | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
-| 9     | Professional → Curious Learner | _Curriculum under development_                                                                                                                                                     | 🔄 Future          |
+| 2     | Nerd → Novice                  | _Curriculum under development_                                                                         | ⏭️ Coming Next     |
+| 3     | Novice → Learner               | _Curriculum under development_                                                                         | 🔄 Future          |
+| 4     | Learner → Beginner             | _Curriculum under development_                                                                         | 🔄 Future          |
+| 5     | Beginner → Practitioner        | _Curriculum under development_                                                                         | 🔄 Future          |
+| 6     | Practitioner → Skilled Coder   | _Curriculum under development_                                                                         | 🔄 Future          |
+| 7     | Skilled Coder → Specialist     | _Curriculum under development_                                                                         | 🔄 Future          |
+| 8     | Specialist → Professional      | _Curriculum under development_                                                                         | 🔄 Future          |
+| 9     | Professional → Curious Learner | _Curriculum under development_                                                                         | 🔄 Future          |
 
 ---
 
 ## 🚧 **Current Implementation Status**
 
-### **✅ Level 1 - Session 1 Available:**
+### **✅ Level 1 - Sessions 1-2 Available:**
 
-| # | Session | Topic | Documentation | Practice Files |
-|---|---------|-------|---------------|----------------|
-| 1 | S1 | Python Introduction & Environment | [01_S1.md](docs/sessions/L1/01_S1.md) | `src/L1/S1/` |
+| #   | Session | Topic                               | Documentation                              | Practice Files |
+| --- | ------- | ----------------------------------- | ------------------------------------------ | -------------- |
+| 1   | S1      | Python Introduction & Environment   | [01_S1.md](docs/sessions/L1/01_S1.md)      | `src/L1/S1/`   |
+| 2   | S2      | Variables & Data Types              | [02_S2.md](docs/sessions/L1/02_S2.md)      | `src/L1/S2/`   |
 
 **Practice Files in S1:**
 
 - `01_hello.py` - Basic output and comments
 - `02_interactive_hello.py` - User input and f-strings
 - `bytecode_demo.py` - Python compilation demonstration
+
+**Practice Files in S2:**
+
+- `01_variables.py` - Variable basics and naming
+- `02_data_types.py` - Python data types exploration
+- `03_type_conversion.py` - Type conversion examples
 
 - **🔧 Development Infrastructure:** Documentation quality automation with CI/CD pipeline
 
@@ -107,6 +114,7 @@ For a detailed repository structure, see **[Repository Structure](docs/Repositor
 - 📖 **Python.org Beginner's Guide:** [python.org/about/gettingstarted](https://python.org/about/gettingstarted/)
 - 🎥 **Python Installation Video:** Search "Python installation [your OS]"
 - 💬 **Community:** r/learnpython, Python Discord, Stack Overflow
+- 🎥 **Video Playlist – Level 1 (Noob → Nerd)**: [Python Fundamentals – Level 1 (YouTube playlist)](https://www.youtube.com/watch?v=Cy6DqbRjsF0&list=PLdLQDTLMjAzpRBxP4q1XJOuLhFG4pSfBB)
 
 ---
 

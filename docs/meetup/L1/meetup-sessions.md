@@ -1,0 +1,100 @@
+# Meetup Session: Python for Absolute Beginners - Level 1
+
+## Session 2: Variables & Data Types
+
+Date: 17-Dec-2025  
+
+Event URL: (Meetup link will be updated here)  
+
+🔹 Session Agenda:
+
+Level: Noob → Nerd (Level 1, Session 2)  
+Format: Live coding session with interactive Q&A  
+Prerequisites: Completed Session 1 (Python Introduction & Environment Setup)
+
+- Optional: Watch the recording/playlist: [Python Fundamentals – Level 1 (YouTube playlist)](https://www.youtube.com/watch?v=Cy6DqbRjsF0&list=PLdLQDTLMjAzpRBxP4q1XJOuLhFG4pSfBB)
+
+Session 2: Variables & Data Types
+
+🎙️ Speaker: Viswanatha Swamy / Swamy's Tech Skills Academy  
+🕘 9:00 AM - 9:30 AM (30 minutes)
+
+What You'll Learn:
+
+- Understand what variables are and how to name them clearly
+- Explore Python's core data types: integers, floats, strings, and booleans
+- See how Python automatically figures out types (dynamic typing)
+- Use `type()` and `isinstance()` to inspect data types
+- Convert between strings, numbers, and booleans safely
+- Build a small “personal profile” program using different data types
+
+Hands-on Practice:
+We’ll write and run three focused practice scripts:
+
+- `src/L1/S2/01_variables.py` – Create and update variables with clear names
+- `src/L1/S2/02_data_types.py` – Tour of the four fundamental data types
+- `src/L1/S2/03_type_conversion.py` – Convert between types and combine values
+
+Perfect For:
+
+- Learners who attended Session 1 and want to keep the momentum going
+- Beginners who want to really understand how Python stores and represents data
+- Anyone who wants a solid foundation before moving to operators and conditionals
+
+📢 Join us to give your Python programs “memory” with variables and data types, setting up everything you’ll need for calculators, games, and mini projects in later sessions!
+
+---
+
+## Session 1: Python Introduction & Environment Setup
+
+Date: 14-Dec-2025
+
+Event URL: <https://www.meetup.com/dot-net-learners-house-hyderabad/events/312432302>  
+
+🔹 Session Agenda:
+
+Level: Noob → Nerd (Level 1, Session 1)
+Format: Live coding session with interactive Q&A
+Prerequisites: None! Just bring your curiosity and a computer.
+
+Session 1: Python Introduction & Environment Setup
+
+🎙️ Speaker: Viswanatha Swamy / Swamy's Tech Skills Academy
+🕘 9:00 AM - 9:30 AM (30 minutes)
+
+What You'll Learn:
+
+Set up your Python development environment (Python 3.13+ & VS Code)
+
+Understand what Python is and why it's popular in the industry
+
+Discover how Python works behind the scenes (compilation, bytecode, and the Python Virtual Machine)
+
+Explore the Python Interactive Shell (REPL) for immediate experimentation
+
+Write and run your first Python scripts
+
+Master essential built-in functions: print(), input(), type(), and help()
+
+Learn f-string formatting for dynamic text output
+
+Hands-on Practice:
+We'll build three Python scripts together:
+
+01_hello.py - Your first "Hello, World!" program
+
+02_interactive_hello.py - Interactive greeting with user input
+
+bytecode_demo.py - See Python's internal magic in action
+
+Perfect For:
+
+Complete beginners with zero programming experience
+
+Anyone curious about Python and how it works
+
+Those ready to start their programming journey
+
+📢 Join us for an exciting hands-on session where we'll transform from complete beginners to writing our first Python programs!
+
+🚀 Let's code, learn, and grow together!
