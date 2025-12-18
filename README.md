@@ -30,10 +30,6 @@ A comprehensive, transformation-focused Python curriculum designed to take you f
    - Follow along with live coding
    - Visual explanations and demonstrations
 
-**For Contributors & Developers:**
-
-- **📁 [Repository Structure](docs/02_RepositoryStructure.md)** - Detailed structure guide and file organization
-
 ---
 
 ## 📋 **Repository Structure**
