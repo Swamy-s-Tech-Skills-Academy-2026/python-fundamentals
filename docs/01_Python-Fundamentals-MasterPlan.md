@@ -2,23 +2,55 @@
 
 > **From clueless to curious** — A comprehensive, transformation-focused Python curriculum designed to take you from complete beginner to confident Python programmer through 9 progressive levels.
 
-**Format:** Each level contains 5 hours of training (10 sessions × 30 minutes) culminating in 2 hands-on mini projects.
+**Note:**
+**This master plan will change as we progress through the course. It will evolve to reflect the latest content, structure, and learning outcomes based on student feedback and industry trends.**
+
+---
+
+## 📋 **Course Architecture Overview**
+
+**Format:** 9 levels → each level is 2 phases × (4 sessions + 1 mini project) = 10 sessions total; each session is ~30 minutes with practice files in `src/` and matching docs in `docs/sessions/`.  
+**Outcome:** Complete transformation from absolute beginner to curious professional  
+**Approach:** Progressive complexity with practical application at every step
+
+---
+
+## 📊 **Level Status Map**
+
+| Level | Stage (From → To) | Core Focus | Status |
+| --- | --- | --- | --- |
+| 1 | Noob → Nerd | Python Basics | ✅ **In Progress** |
+| 2 | Nerd → Novice | Control Flow & Functions | ⏭️ **Coming Next** |
+| 3 | Novice → Learner | Data Structures | 🔄 **Future** |
+| 4 | Learner → Beginner | OOP Fundamentals | 🔄 **Future** |
+| 5 | Beginner → Practitioner | Modules & Packages | 🔄 **Future** |
+| 6 | Practitioner → Skilled Coder | File I/O & Error Handling | 🔄 **Future** |
+| 7 | Skilled Coder → Specialist | Advanced OOP & Decorators | 🔄 **Future** |
+| 8 | Specialist → Professional | Testing & Debugging | 🔄 **Future** |
+| 9 | Professional → Curious Learner | Advanced Topics & Projects | 🔄 **Future** |
+
+Status Legend:
+
+✅ In Progress - Fully developed, tested, and ready for students
+✅ Complete - Fully developed, tested, and ready for students
+⏭️ Coming Next - Next level to be developed
+🔄 Planned - Designed and documented, awaiting implementation
 
 ---
 
 ## 🎯 **The 9-Level Python Journey**
 
-| Level | Journey Stage                  | Focus                                                                                                  | Status             |
-| ----- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------ |
-| 1     | Noob → Nerd                    | _Environment setup, Python introduction, first scripts_. 📋 **[View Plan](sessions/L1/_Plan.md)** | 🚧 **In Progress** |
-| 2     | Nerd → Novice                  | _Curriculum under development_                                                                         | ⏭️ Coming Next     |
-| 3     | Novice → Learner               | _Curriculum under development_                                                                         | 🔄 Future          |
-| 4     | Learner → Beginner             | _Curriculum under development_                                                                         | 🔄 Future          |
-| 5     | Beginner → Practitioner        | _Curriculum under development_                                                                         | 🔄 Future          |
-| 6     | Practitioner → Skilled Coder   | _Curriculum under development_                                                                         | 🔄 Future          |
-| 7     | Skilled Coder → Specialist     | _Curriculum under development_                                                                         | 🔄 Future          |
-| 8     | Specialist → Professional      | _Curriculum under development_                                                                         | 🔄 Future          |
-| 9     | Professional → Curious Learner | _Curriculum under development_                                                                         | 🔄 Future          |
+| Level | Journey Stage | Focus | Status |
+| --- | --- | --- | --- |
+| 1 | Noob → Nerd | _Environment setup, Python introduction, first scripts_. 📋 **[View Plan](sessions/L1/_Plan.md)** | 🚧 **In Progress** |
+| 2 | Nerd → Novice | _Curriculum under development_ | ⏭️ Coming Next |
+| 3 | Novice → Learner | _Curriculum under development_ | 🔄 Future |
+| 4 | Learner → Beginner | _Curriculum under development_ | 🔄 Future |
+| 5 | Beginner → Practitioner | _Curriculum under development_ | 🔄 Future |
+| 6 | Practitioner → Skilled Coder | _Curriculum under development_ | 🔄 Future |
+| 7 | Skilled Coder → Specialist | _Curriculum under development_ | 🔄 Future |
+| 8 | Specialist → Professional | _Curriculum under development_ | 🔄 Future |
+| 9 | Professional → Curious Learner | _Curriculum under development_ | 🔄 Future |
 
 ---
 

@@ -4,6 +4,10 @@
 **/.venv/**
 **/.vscode/**
 
+# Ignore reference source material
+
+source-material/**
+
 # Ignore Git directory and all subdirectories
 
 .git/**
