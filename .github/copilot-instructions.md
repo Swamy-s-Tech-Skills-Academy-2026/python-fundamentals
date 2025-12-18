@@ -30,6 +30,18 @@
 - **MINIMIZE** the scope of changes
 - **MAINTAIN** surrounding context and formatting
 
+### **4. 🚫 ZERO-COPY POLICY (Non-Negotiable)**
+
+- **NEVER** copy text verbatim from books, articles, websites, videos, or third-party materials
+- **NEVER** mirror a source's outline, section order, headings, or example sequence
+- **NEVER** use "light paraphrasing" — must transform completely
+- **ALWAYS** create diagrams in Mermaid-first style with ASCII fallback (never embed copyrighted figures)
+- **ALWAYS** write fresh, minimal code from first principles
+- Brief quotations allowed ONLY with quotation marks and source citation
+- **Goal**: Create transformative educational content, not just reformative
+
+**See `.cursor/rules/01_educational-content-rules.mdc` for complete Zero-Copy Policy and Transformative Workflow details.**
+
 ---
 
 ## 📋 **PROJECT STRUCTURE OVERVIEW**
@@ -84,10 +96,13 @@ python-fundamentals/
 ### **Educational Approach:**
 
 - **30-minute sessions** - Realistic time constraints
+- **Splitting over trimming** - If content is too long, split into multiple parts instead of removing educational material
 - **Progressive complexity** - Each session builds on previous
 - **Hands-on practice** - Every concept has practical application
 - **Visual learning** - Emojis, diagrams, and clear formatting
 - **Beginner-focused** - No assumptions about prior knowledge
+
+**See `.cursor/rules/01_educational-content-rules.mdc` for details on the splitting policy.**
 
 ### **Content Quality Standards:**
 
