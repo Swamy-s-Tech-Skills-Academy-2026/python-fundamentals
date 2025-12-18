@@ -183,6 +183,11 @@ flowchart TB
 * Dynamic typing, `type()`, `isinstance()`
 * Type conversion and casting
 
+🧪 *Practice Files*:  
+`src/L1/S2/01_variables.py`, `src/L1/S2/02_data_types.py`, `src/L1/S2/03_type_conversion.py`
+
+📖 *Documentation*: [02_S2.md](02_S2.md)
+
 🧪 *Mini Practice*: Store and display personal details with different data types.  
 📌 *Feeds into Mini Project 1*: User input and storage are core to the calculator.
 
