@@ -1,6 +1,6 @@
 # 📋 Repository Structure
 
-> **🎯 Single Source of Truth**: This document (`docs/RepositoryStructure.md`) is the **authoritative source** for repository structure information. Other files (`.cursor/rules/`, `.github/copilot-instructions.md`) reference this document for structure details.
+> **🎯 Single Source of Truth**: This document (`docs/02_RepositoryStructure.md`) is the **authoritative source** for repository structure information. Other files (`.cursor/rules/`, `.github/copilot-instructions.md`) reference this document for structure details.
 
 This document provides a detailed overview of the Python Fundamentals repository structure.
 
@@ -13,7 +13,7 @@ python-fundamentals/
 ├── 📚 docs/
 │   ├── images/                 # Screenshots and educational images
 │   │   └── S1/                 # Session 1 images
-│   ├── RepositoryStructure.md  # This file
+│   ├── 02_RepositoryStructure.md  # This file
 │   └── sessions/
 │       └── L1/                 # Level 1: Noob → Nerd
 │           ├── _Plan.md        # Complete Level 1 curriculum plan (sorts first)

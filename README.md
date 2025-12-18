@@ -14,7 +14,7 @@ A comprehensive, transformation-focused Python curriculum designed to take you f
 
 ## 📋 **Repository Structure**
 
-For a detailed repository structure, see **[Repository Structure](docs/RepositoryStructure.md)**.
+For a detailed repository structure, see **[Repository Structure](docs/02_RepositoryStructure.md)**.
 
 **Quick Overview:**
 

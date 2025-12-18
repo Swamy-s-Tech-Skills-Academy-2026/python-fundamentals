@@ -46,7 +46,7 @@
 
 ## 📋 **PROJECT STRUCTURE OVERVIEW**
 
-> **📋 Single Source of Truth**: For the most detailed and up-to-date repository structure, see [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md). This section provides a quick overview for AI assistants.
+> **📋 Single Source of Truth**: For the most detailed and up-to-date repository structure, see [`docs/02_RepositoryStructure.md`](../docs/02_RepositoryStructure.md). This section provides a quick overview for AI assistants.
 
 ### **Current Organization:**
 
@@ -55,7 +55,7 @@ python-fundamentals/
 ├── docs/
 │   ├── images/              # Educational images and screenshots
 │   │   └── S1/              # Session 1 images
-│   ├── RepositoryStructure.md
+│   ├── 02_RepositoryStructure.md
 │   └── sessions/
 │       └── L1/              # Level 1: Noob → Nerd
 │           ├── _Plan.md     # Overall Level 1 curriculum plan (sorts first)
@@ -322,7 +322,7 @@ Before submitting any changes, verify:
 
 ## 🔗 **Related Documentation**
 
-- **📋 Repository Structure (Single Source of Truth)**: [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md) - **Authoritative repository structure documentation**
+- **📋 Repository Structure (Single Source of Truth)**: [`docs/02_RepositoryStructure.md`](../docs/02_RepositoryStructure.md) - **Authoritative repository structure documentation**
 - **Cursor AI Rules**: `.cursor/rules/` - Comprehensive modular rules for Cursor AI
   - See `.cursor/rules/README.md` for overview of all rule files
   - Rules cover: educational content, repository structure, quality assurance, markdown standards, primary directives, cross-level integration
@@ -331,8 +331,8 @@ Before submitting any changes, verify:
 
 **Note**:
 
-- `docs/RepositoryStructure.md` is the **single source of truth** for repository structure
-- `.cursor/rules/` and `.github/copilot-instructions.md` should reference `docs/RepositoryStructure.md` for structure details
+- `docs/02_RepositoryStructure.md` is the **single source of truth** for repository structure
+- `.cursor/rules/` and `.github/copilot-instructions.md` should reference `docs/02_RepositoryStructure.md` for structure details
 - Both provide guidance for AI assistants working with this repository
 
 ---
