@@ -208,6 +208,7 @@ Community and project documentation:
 | -   | `_Plan.md`  | Level Overview                      | -              |
 | 1   | `01_S1.md`  | Python Introduction & Environment   | 3 files        |
 | 2   | `02_S2.md`  | Variables & Data Types              | 3 files        |
+| 3   | `03_S3.md`  | Operators & Expressions             | 3 files        |
 
 **Practice Files in S1:**
 
@@ -221,9 +222,15 @@ Community and project documentation:
 - `02_data_types.py` - Python data types exploration
 - `03_type_conversion.py` - Type conversion examples
 
+**Practice Files in S3:**
+
+- `01_arithmetic.py` - Arithmetic operators demonstration
+- `02_comparisons.py` - Comparison operators and chained comparisons
+- `03_mini_calculator.py` - Interactive calculator with all operations
+
 ### Future Sessions & Levels
 
-- 🔄 **Level 1 Sessions 3-10**: Planned for future development
+- 🔄 **Level 1 Sessions 4-10**: Planned for future development
 - 🔄 **Level 2-9**: Planned for future development
 
 ---
@@ -235,6 +242,7 @@ Community and project documentation:
 - **Level 1 Plan**: [docs/sessions/L1/_Plan.md](sessions/L1/_Plan.md)
 - **Session 1**: [docs/sessions/L1/01_S1.md](sessions/L1/01_S1.md)
 - **Session 2**: [docs/sessions/L1/02_S2.md](sessions/L1/02_S2.md)
+- **Session 3**: [docs/sessions/L1/03_S3.md](sessions/L1/03_S3.md)
 
 ---
 
