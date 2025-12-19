@@ -30,48 +30,32 @@
 - **MINIMIZE** the scope of changes
 - **MAINTAIN** surrounding context and formatting
 
+### **4. 🚫 ZERO-COPY POLICY (Non-Negotiable)**
+
+- **NEVER** copy text verbatim from books, articles, websites, videos, or third-party materials
+- **NEVER** mirror a source's outline, section order, headings, or example sequence
+- **NEVER** use "light paraphrasing" — must transform completely
+- **ALWAYS** create diagrams in Mermaid-first style with ASCII fallback (never embed copyrighted figures)
+- **ALWAYS** write fresh, minimal code from first principles
+- Brief quotations allowed ONLY with quotation marks and source citation
+- **Goal**: Create transformative educational content, not just reformative
+
+**See `.cursor/rules/01_educational-content-rules.mdc` for complete Zero-Copy Policy and Transformative Workflow details.**
+
 ---
 
 ## 📋 **PROJECT STRUCTURE OVERVIEW**
 
-> **📋 Single Source of Truth**: For the most detailed and up-to-date repository structure, see [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md). This section provides a quick overview for AI assistants.
+> **📋 Single Source of Truth**: For the complete and up-to-date repository structure, see [`docs/02_RepositoryStructure.md`](../docs/02_RepositoryStructure.md). This is the authoritative documentation for all repository structure details.
 
-### **Current Organization:**
+**Quick Reference:**
 
-```text
-python-fundamentals/
-├── docs/
-│   ├── images/              # Educational images and screenshots
-│   │   └── S1/              # Session 1 images
-│   ├── RepositoryStructure.md
-│   └── sessions/
-│       └── L1/              # Level 1: Noob → Nerd
-│           ├── _Plan.md     # Overall Level 1 curriculum plan (sorts first)
-│           ├── 01_S1.md     # Session 1: Environment & Setup
-│           ├── 02_S2.md     # Session 2: Variables & Data Types
-│           ├── 03_S3.md     # Session 3: Operators & Expressions
-│           ├── 04_S4.md     # Session 4: Conditionals & Modules
-│           ├── 05_MP1.md    # Mini Project 1: Simple Calculator
-│           ├── 06_S5.md     # Session 5: Loops & Iteration
-│           ├── 07_S6.md     # Session 6: Debugging & Built-ins
-│           ├── 08_S7.md     # Session 7: Lists & Loops
-│           ├── 09_S8.md     # Session 8: Dictionaries & Testing
-│           └── 10_MP2.md    # Mini Project 2: Profile Generator
-├── src/
-│   └── L1/
-│       ├── S1/              # Session 1 practice files
-│       │   ├── 01_hello.py
-│       │   ├── 02_interactive_hello.py
-│       │   └── bytecode_demo.py
-│       ├── S2/ ... S8/      # Session 2-8 practice files
-│       ├── MP1/             # Mini Project 1 files
-│       │   └── simple_calculator.py
-│       └── MP2/             # Mini Project 2 files
-│           └── profile_generator.py
-└── README.md                # Project overview and quick start
-```
+- **Documentation**: `docs/sessions/L{level}/` - Session documentation organized by level
+- **Practice Code**: `src/L{level}/S{session}/` - Python practice files organized by level and session
+- **Images**: `docs/images/S{session}/` - Educational images organized by session
+- **Scripts**: `scripts/` - PowerShell utility scripts for development
 
-### **File Relationships:**
+**File Relationships:**
 
 - `docs/sessions/L1/01_S1.md` ↔ `src/L1/S1/` (practice files)
 - `docs/sessions/L1/_Plan.md` → Overall curriculum structure
@@ -84,10 +68,13 @@ python-fundamentals/
 ### **Educational Approach:**
 
 - **30-minute sessions** - Realistic time constraints
+- **Splitting over trimming** - If content is too long, split into multiple parts instead of removing educational material
 - **Progressive complexity** - Each session builds on previous
 - **Hands-on practice** - Every concept has practical application
 - **Visual learning** - Emojis, diagrams, and clear formatting
 - **Beginner-focused** - No assumptions about prior knowledge
+
+**See `.cursor/rules/01_educational-content-rules.mdc` for details on the splitting policy.**
 
 ### **Content Quality Standards:**
 
@@ -215,7 +202,6 @@ print("🚀 Advanced Python Preview")
 ```markdown
 # OLD (incorrect)
 [Session 1](docs/sessions/S1.md)
-[Session 1](docs/sessions/L1/S1.md)
 
 # NEW (correct)
 [Session 1](docs/sessions/L1/01_S1.md)
@@ -307,7 +293,7 @@ Before submitting any changes, verify:
 
 ## 🔗 **Related Documentation**
 
-- **📋 Repository Structure (Single Source of Truth)**: [`docs/RepositoryStructure.md`](../docs/RepositoryStructure.md) - **Authoritative repository structure documentation**
+- **📋 Repository Structure (Single Source of Truth)**: [`docs/02_RepositoryStructure.md`](../docs/02_RepositoryStructure.md) - **Authoritative repository structure documentation**
 - **Cursor AI Rules**: `.cursor/rules/` - Comprehensive modular rules for Cursor AI
   - See `.cursor/rules/README.md` for overview of all rule files
   - Rules cover: educational content, repository structure, quality assurance, markdown standards, primary directives, cross-level integration
@@ -316,8 +302,8 @@ Before submitting any changes, verify:
 
 **Note**:
 
-- `docs/RepositoryStructure.md` is the **single source of truth** for repository structure
-- `.cursor/rules/` and `.github/copilot-instructions.md` should reference `docs/RepositoryStructure.md` for structure details
+- `docs/02_RepositoryStructure.md` is the **single source of truth** for repository structure
+- `.cursor/rules/` and `.github/copilot-instructions.md` should reference `docs/02_RepositoryStructure.md` for structure details
 - Both provide guidance for AI assistants working with this repository
 
 ---

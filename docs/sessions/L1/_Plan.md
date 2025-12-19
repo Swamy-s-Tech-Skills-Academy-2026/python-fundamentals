@@ -21,7 +21,7 @@ related_topics:
   prerequisites: []
   builds_upon: []
   enables:
-    - "docs/sessions/L2/Plan.md"
+    - "docs/sessions/L2/_Plan.md"
   cross_refs: []
 sessions:
   - session: 1
@@ -34,7 +34,7 @@ sessions:
     topic: "Variables & Data Types"
     duration: "30 min"
     type: "Knowledge"
-    status: "Planned"
+    status: "Ready"
     file: "docs/sessions/L1/02_S2.md"
   - session: 3
     topic: "Operators & Expressions"
@@ -176,12 +176,17 @@ flowchart TB
 
 ---
 
-### 🔄 Session 2: Variables & Data Types *(Planned)*
+### ✅ Session 2: Variables & Data Types
 
 * Variable naming conventions and assignment
 * Data types: `int`, `float`, `str`, `bool`
 * Dynamic typing, `type()`, `isinstance()`
 * Type conversion and casting
+
+🧪 *Practice Files*:  
+`src/L1/S2/01_variables.py`, `src/L1/S2/02_data_types.py`, `src/L1/S2/03_type_conversion.py`
+
+📖 *Documentation*: [02_S2.md](02_S2.md)
 
 🧪 *Mini Practice*: Store and display personal details with different data types.  
 📌 *Feeds into Mini Project 1*: User input and storage are core to the calculator.
