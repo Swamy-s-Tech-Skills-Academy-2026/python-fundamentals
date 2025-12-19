@@ -1,5 +1,50 @@
 # Meetup Session: Python for Absolute Beginners - Level 1
 
+## Session 3: Operators & Expressions
+
+Date: (TBD - To be scheduled)  
+
+Event URL: (Meetup link will be updated here)  
+
+🔹 Session Agenda:
+
+Level: Noob → Nerd (Level 1, Session 3)  
+Format: Live coding session with interactive Q&A  
+Prerequisites: Completed Session 2 (Variables & Data Types)
+
+- Optional: Watch the recording/playlist: [Python Fundamentals – Level 1 (YouTube playlist)](https://www.youtube.com/watch?v=Cy6DqbRjsF0&list=PLdLQDTLMjAzpRBxP4q1XJOuLhFG4pSfBB)
+
+Session 3: Operators & Expressions
+
+🎙️ Speaker: Viswanatha Swamy / Swamy's Tech Skills Academy  
+🕘 9:00 AM - 9:30 AM (30 minutes)
+
+What You'll Learn:
+
+- Master arithmetic operations: addition, subtraction, multiplication, division, floor division, modulo, and exponentiation
+- Use comparison operators to check equality, inequality, and relationships between values
+- Apply assignment operators as shortcuts for updating variables efficiently
+- Understand operator precedence and how Python calculates complex expressions
+- Control calculation order using parentheses
+- Build a working mini calculator that performs multiple operations
+
+Hands-on Practice:
+We'll write and run three focused practice scripts:
+
+- `src/L1/S3/01_arithmetic.py` – Explore all seven arithmetic operators with practical examples
+- `src/L1/S3/02_comparisons.py` – Compare values and use chained comparisons for range checks
+- `src/L1/S3/03_mini_calculator.py` – Build an interactive calculator with all basic operations
+
+Perfect For:
+
+- Learners who've mastered variables and data types from Session 2
+- Beginners ready to perform calculations and make comparisons in Python
+- Anyone preparing to build their first calculator project in the upcoming mini project
+
+📢 Join us to unlock the power of Python operators and expressions! You'll learn to perform calculations, compare values, and build the foundation for conditionals and decision-making in future sessions.
+
+---
+
 ## Session 2: Variables & Data Types
 
 Date: 17-Dec-2025  
