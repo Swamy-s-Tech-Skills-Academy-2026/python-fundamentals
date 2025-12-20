@@ -40,7 +40,7 @@ sessions:
     topic: "Operators & Expressions"
     duration: "30 min"
     type: "Knowledge"
-    status: "Planned"
+    status: "Ready"
     file: "docs/sessions/L1/03_S3.md"
   - session: 4
     topic: "Conditionals, Indentation & Introduction to Modules"
@@ -107,7 +107,7 @@ sessions:
 | ----- | ------- | ------------------------------------------------------ | --------- | ------------ | ---------- |
 | A     | 1       | Python Introduction, Environment & Built-in Functions  | 30 min    | 📚 Knowledge | ✅ Ready   |
 | A     | 2       | Variables & Data Types                                 | 30 min    | 📚 Knowledge | ✅ Ready   |
-| A     | 3       | Operators & Expressions                                | 30 min    | 📚 Knowledge | 🔄 Planned |
+| A     | 3       | Operators & Expressions                                | 30 min    | 📚 Knowledge | ✅ Ready   |
 | A     | 4       | Conditionals, Indentation & Introduction to Modules    | 30 min    | 📚 Knowledge | 🔄 Planned |
 | A     | 🚀 MP1  | Mini Project 1: Simple Calculator *(after Session 4)*  | 30–45 min | 🛠️ Project   | 🔄 Planned |
 | B     | 5       | Loops & Iteration                                      | 30 min    | 📚 Knowledge | 🔄 Planned |
@@ -193,12 +193,17 @@ flowchart TB
 
 ---
 
-### 🔄 Session 3: Operators & Expressions *(Planned)*
+### ✅ Session 3: Operators & Expressions
 
 * Arithmetic operators: `+`, `-`, `*`, `/`, `//`, `%`, `**`
 * Comparison operators: `==`, `!=`, `<`, `>`, `<=`, `>=`
 * Assignment operators: `=`, `+=`, `-=`, etc.
 * Operator precedence and parentheses
+
+🧪 *Practice Files*:  
+`src/L1/S3/01_arithmetic.py`, `src/L1/S3/02_comparisons.py`, `src/L1/S3/03_mini_calculator.py`
+
+📖 *Documentation*: [03_S3.md](03_S3.md)
 
 🧪 *Mini Practice*: Build a basic calculator with different operations.  
 📌 *Feeds into Mini Project 1*: Calculator logic.

@@ -44,7 +44,7 @@ Status Legend:
 
 **Focus:** Environment setup, basic syntax, curiosity ignition  
 **Duration:** 5 hours (10 sessions × 30 min)  
-**Status:** 🚧 **In Progress** - Sessions 1-2 available
+**Status:** 🚧 **In Progress** - Sessions 1-3 available
 
 **Actual Session Breakdown:**
 
@@ -52,7 +52,7 @@ Status Legend:
 | --- | --- | --- | --- | --- |
 | A | 1 | **Python Introduction & Environment Setup** | 📚 Knowledge | ✅ **Ready** |
 | A | 2 | **Variables & Data Types** | 📚 Knowledge | ✅ **Ready** |
-| A | 3 | **Operators & Expressions** | 📚 Knowledge | 🔄 **Planned** |
+| A | 3 | **Operators & Expressions** | 📚 Knowledge | ✅ **Ready** |
 | A | 4 | **Conditionals, Indentation & Introduction to Modules** | 📚 Knowledge | 🔄 **Planned** |
 | A | MP1 | **🚀 Mini Project 1: Simple Calculator** | 🛠️ Project | 🔄 **Planned** |
 | B | 5 | **Loops & Iteration** | 📚 Knowledge | 🔄 **Planned** |
@@ -107,7 +107,7 @@ Before moving to Level 2, you should be able to:
 
 ## 🚧 **Current Implementation Status**
 
-- **🚧 Level 1:** In Progress - Sessions 1-2 available. See [Level 1 Plan](sessions/L1/_Plan.md) for details
+- **🚧 Level 1:** In Progress - Sessions 1-3 available. See [Level 1 Plan](sessions/L1/_Plan.md) for details
 - **⏭️ Level 2-9:** Coming soon
 
 ---

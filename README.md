@@ -22,7 +22,7 @@ A comprehensive, transformation-focused Python curriculum designed to take you f
    - Check current implementation status
 
 2. **📖 [Level 1 Plan](docs/sessions/L1/_Plan.md)** - Begin with Level 1: Noob → Nerd
-   - Complete guide with 10 sessions (Sessions 1-2 available now)
+   - Complete guide with 10 sessions (Sessions 1-3 available now)
    - Hands-on practice files and mini projects
    - Step-by-step learning path
 
